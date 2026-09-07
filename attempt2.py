@@ -10,12 +10,12 @@ if(computer==you):
 elif(computer==1 and you==0 ):
        print("you won!")
 elif(computer==1 and you==-1 ):
-        print("you loose!")
+        print("you lose!")
 elif(computer==0 and you==1):
-        print("you loose!")
+        print("you lose!")
 elif(computer==0 and you==-1 ):
         print("you won!")
 elif(computer==-1 and you==1 ):
         print("you won!")
 elif(computer==-1 and you==0 ):
-        print("you loose!")
+        print("you lose!")
